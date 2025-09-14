@@ -21,3 +21,18 @@ This is a Python-based voice assistant that performs tasks like opening websites
 
 ## 📁 Folder Structure
 
+.
+├── audio/
+│   ├── wake_word.wav
+├── config/
+│   ├── settings.ini
+├── core/
+│   ├── assistant.py
+│   ├── commands.py
+│   └── listener.py
+├── data/
+│   ├── user_commands.json
+│   └── search_history.txt
+├── main.py
+├── requirements.txt
+└── README.md
